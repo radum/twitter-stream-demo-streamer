@@ -1,0 +1,17 @@
+{
+  "name": "twitter-api-streamm",
+  "version": "0.1.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "radum",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.11.2",
+    "node-uuid": "^1.4.2",
+    "redis": "^0.12.1",
+    "lodash": "^3.3.0"
+  }
+}
