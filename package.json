@@ -13,7 +13,7 @@
     "url": "git@github.com:radum/twitter-stream-demo-streamer.git"
   },
   "dependencies": {
-    "express": "^4.11.2",
+    "express": "^4.17.3",
     "node-uuid": "^1.4.2",
     "redis": "^3.0.2",
     "lodash": "^3.3.0"
